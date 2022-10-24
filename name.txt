@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A802-F7C4
+
+ Directory of C:\Users\IGS0425\OneDrive - Intact Green Services (India) PVT LTD\Desktop\My Project
+
+10/24/2022  09:10 PM    <DIR>          .
+10/24/2022  09:10 PM    <DIR>          ..
+10/24/2022  09:10 PM                 0 name.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  100,717,367,296 bytes free
